@@ -1,0 +1,21 @@
+html{
+    background-color: black;
+}
+img{
+    border:5px solid white;
+}
+h1{
+    color: white;
+}
+div{
+    align-items: center;
+}
+p{
+    color: white;
+}
+.poster{
+    margin-left: 25%;
+    margin-top: 100px;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
